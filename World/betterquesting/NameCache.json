@@ -1,3 +1,9 @@
 {
-	"nameCache:9": {}
+	"nameCache:9": {
+		"0:10": {
+			"name:8": "Nirvill",
+			"isOP:1": 1,
+			"uuid:8": "5d3cf7ec-6372-4d1c-9447-897f6801f66d"
+		}
+	}
 }
